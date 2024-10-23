@@ -6,4 +6,8 @@ This code is ported from the Skywater130-PDK to the IHP-PDK using the results re
 
 The [IHP-PDK is linked here](https://github.com/IHP-GmbH/IHP-Open-PDK)
 
-This work was completed for the course Electrical Engineering 628 - Analysis & Design of IC
+This work was completed Dr. Boris Murmann's course Electrical Engineering 628 - Analysis & Design of IC for Team 2 (The transformer monster dumptrucks)
+
+Images below are of the final chip design and class picture.
+![chip layout](/imgs/chip-layout.png)
+![class picture](/imgs/class-picture.jpg)
